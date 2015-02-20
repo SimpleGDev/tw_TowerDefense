@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\workspace\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-232fde7f432c995ada69e3de8d3fed70f541c527.jar" />
+    </item>
+    <item
+        jar="D:\workspace\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\workspace\MyApplication\app\build\intermediates\pre-dexed\debug\classes-100f4b5ec093ec40db52493b578a6a29623c6d0f.jar" />
+    </item>
+    <item
+        jar="D:\workspace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\workspace\MyApplication\app\build\intermediates\pre-dexed\debug\classes-507f0b5c8e3799fa8ba58bb18a204934e716083d.jar" />
+    </item>
+    <item
+        jar="D:\workspace\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\workspace\MyApplication\app\build\intermediates\pre-dexed\debug\classes-02e1c12b26498d351c123490ae34e7fd0421098a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ultimate\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\workspace\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-18d157419c34e67bf890edc1869f1bc32a3363da.jar" />
+    </item>
+
+</items>
